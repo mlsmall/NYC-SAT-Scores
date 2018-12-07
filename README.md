@@ -1,3 +1,5 @@
 # NYC-SAT-Scores
 
-This project consits of of finding correlations between SAT scores and other statistics in New York City schools. It was first analyzed by dataquest.io. The data avilable consists of a high school directory, SAT test results, math test results, class size, graduation results, and Adcanced Placement (AP) test results. We will use this data to see if there are any correlations between SAT scores and the rest of the categories we have for New York City schools.d
+This project consits of of finding correlations between SAT scores and other statistics of highschools in New York City. The datasets avilable consist of a high school directory, SAT test results, math test results, class size, graduation results, and Adcanced Placement (AP) test results. 
+
+The notebook contains plots of these statistics with respect to SAT scores as well as how strongle a particular statistic correlates with a classroom achieving high scores.
